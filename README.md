@@ -1,1 +1,1 @@
-# RL-CSL348
+# RL-CSL348 (Reinforcement Learning)
